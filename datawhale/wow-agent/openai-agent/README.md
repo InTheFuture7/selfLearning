@@ -1,4 +1,6 @@
 
+学习资料：https://github.com/datawhalechina/wow-agent
+
 ## 环境配置
 
 python 3.10
