@@ -1,0 +1,3 @@
+2025-06-19 16:18:54,141 - test_b - INFO - [test_b_log.py:7] - some code start running!
+2025-06-19 16:18:54,142 - test_b - WARNING - [test_b_log.py:10] - some warning occur!
+2025-06-19 16:18:54,144 - test_b - ERROR - [test_b_log.py:13] - some error occur!
